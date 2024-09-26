@@ -1,3 +1,3 @@
-# myImages Repo
+<h1 align="center">myImages Repo</h1>
 
-This repo is used to hold my images.
+<p>This repo is used to hold my images.</p>
